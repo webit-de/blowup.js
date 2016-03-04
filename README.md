@@ -10,19 +10,20 @@ A jQuery plugin for customizable image magnification.
 Usage
 -----
 
-Ensure you have included the latest stable jQuery version before including `blowup.js`.
+Download the `blowup.js` file and reference it in your HTML file. Ensure you have included the latest stable jQuery version before including `blowup.js`.
 
 ```html
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="lib/blowup.min.js"></script>
+<script type="text/javascript" src="lib/blowup.js"></script>
 ```
+
+Then, apply the blowup effect to your image.
 
 ```javascript
 $(document).ready(function () {
     $("img").blowup();
 })
 ```
-
 
 Configuration Parameters
 ------------------------
