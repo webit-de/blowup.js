@@ -76,7 +76,7 @@ Listed are the customization options that `blowup.js` allows.
     </tr>
 </table>
 
-### Example
+#### Example
 
 ```javascript
 $("img").blowup({
