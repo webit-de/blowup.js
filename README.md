@@ -5,7 +5,7 @@ A jQuery plugin for customizable image magnification.
 
 [Check out a demo!](http://paulkr.github.io/blowup.js)
 
-![demo](https://raw.githubusercontent.com/paulkr/blowup.js/master/blowup.png)
+![demo](https://raw.githubusercontent.com/paulkr/blowup.js/gh-pages/blowup.png)
 
 Usage
 -----
