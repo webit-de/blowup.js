@@ -1,5 +1,5 @@
 // index.js
-// (c) Paul Krishnamurthy
+// Paul Krishnamurthy 2016
 
 $(document).ready(function () {
 
