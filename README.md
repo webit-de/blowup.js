@@ -76,4 +76,13 @@ Listed are the customization options that `blowup.js` allows.
     </tr>
 </table>
 
+### Example
+
+```javascript
+$("img").blowup({
+    "background" : "#F39C12",
+    "width" : 250,
+    "height" : 250
+})
+```
 
