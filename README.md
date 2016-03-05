@@ -10,7 +10,14 @@ A jQuery plugin for customizable image magnification.
 Usage
 -----
 
-Download the `blowup.js` file and reference it in your HTML file. Ensure you have included the latest stable jQuery version before including `blowup.js`.
+You can install blowup through npm:
+
+```bash
+npm install blowup
+```
+
+Alternatively, download the package and reference the `blowup.js` filein your HTML file. 
+Ensure you have included the latest stable jQuery version before including `blowup.js`.
 
 ```html
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
