@@ -13,7 +13,13 @@ Usage
 You can install blowup through npm:
 
 ```bash
-npm install blowup
+$ npm install blowup
+```
+
+or through bower:
+
+```bash
+$ bower install blowup
 ```
 
 Alternatively, download the package and reference the `blowup.js` filein your HTML file. 
@@ -93,4 +99,5 @@ $("img").blowup({
     "height" : 250
 })
 ```
+
 
