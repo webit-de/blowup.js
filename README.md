@@ -22,7 +22,7 @@ or through bower:
 $ bower install blowup
 ```
 
-Alternatively, download the package and reference the `blowup.js` filein your HTML file. 
+Alternatively, download the package and reference the `blowup.js` file in your HTML file. 
 Ensure you have included the latest stable jQuery version before including `blowup.js`.
 
 ```html
