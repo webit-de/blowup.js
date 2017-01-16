@@ -88,6 +88,11 @@ Listed are the customization options that `blowup.js` allows.
         <td>z-index value of the lens.</td>
         <td>999999</td>
     </tr>
+    <tr>
+        <td>scale</td>
+        <td>Scale factor for zoom.</td>
+        <td>1</td>
+    </tr>
 </table>
 
 #### Example
