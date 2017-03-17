@@ -1,0 +1,6 @@
+#BlowupLens {
+  background-repeat: no-repeat;
+  display: none;
+  pointer-events: none;
+  position: absolute;
+}
